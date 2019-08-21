@@ -1,0 +1,20 @@
+{
+  "name": "multiPage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuhui666/multiPage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuhui666/multiPage/issues"
+  },
+  "homepage": "https://github.com/liuhui666/multiPage#readme"
+}
